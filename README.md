@@ -1,3 +1,7 @@
+![VirtualBoxss1](https://github.com/user-attachments/assets/02c413b3-518a-4a53-8ec4-e80747157621)
+![VirtualBoxss2](https://github.com/user-attachments/assets/bb9409d6-081b-4f55-81f6-c576cf608100)
+
+
 # home-lab
 Windows 10 Virtual Machine Setup (Home Lab)
 
@@ -31,5 +35,7 @@ Windows 10 Virtual Machine Setup (Home Lab)
 - VirtualBox VM creation & resource tuning.
 - How to mount an ISO and install Windows cleanly.
 - Hands-on experience with OS installs, file systems, and boot order.
+
+
 
 ---
